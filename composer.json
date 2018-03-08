@@ -11,11 +11,11 @@
     ],
     "require": {
         "php": ">=5.6.4",
-        "illuminate/support": "5.3.*|5.4.*|5.5.*",
-        "illuminate/config": "5.3.*|5.4.*|5.5.*",
-        "illuminate/routing": "5.3.*|5.4.*|5.5.*",
-        "illuminate/view": "5.3.*|5.4.*|5.5.*",
-        "laravelcollective/html": "5.3.*|5.4.*|5.5.*"
+        "illuminate/support": "5.3.*|5.4.*|5.5.*|5.6.*",
+        "illuminate/config": "5.3.*|5.4.*|5.5.*|5.6.*",
+        "illuminate/routing": "5.3.*|5.4.*|5.5.*|5.6.*",
+        "illuminate/view": "5.3.*|5.4.*|5.5.*|5.6.*",
+        "laravelcollective/html": "5.3.*|5.4.*|5.5.*|5.6.*"
     },
     "autoload": {
         "psr-4": {
